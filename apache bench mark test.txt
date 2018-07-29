@@ -1,0 +1,3 @@
+#Apache bench mark test
+
+G:\NodeJs_Learning\softwares\xampp\apache\bin\ab.exe -c 40 -n 500 http://localhost:8070
